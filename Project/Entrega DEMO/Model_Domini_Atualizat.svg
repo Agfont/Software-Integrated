@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="962px" preserveAspectRatio="none" style="width:1359px;height:962px;" version="1.1" viewBox="0 0 1359 962" width="1359px" zoomAndPan="magnify"><defs><filter height="300%" id="fpss66dv5r7cx" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="118" x="624" y="16.708">MyPillRecord</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="73" x="910.5" y="63.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="59" x="917.5" y="77.0918">Controller</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="911.5" x2="982.5" y1="81.9219" y2="81.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="23" x="916.5" y="95.2041">user</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="43" x="916.5" y="106.8447">jaIniciat</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="114" x="541" y="896.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="100" x="548" y="910.0918">ActivityReminder</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="542" x2="654" y1="914.9219" y2="914.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="32" x="547" y="928.2041">name</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="46" x="547" y="939.8447">duration</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="106" x="158" y="414.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="92" x="165" y="428.0918">ActivityTherapy</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="159" x2="263" y1="432.9219" y2="432.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="66" x="164" y="446.2041">activityType</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="46" x="164" y="457.8447">duration</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="95.8125" style="stroke: #A80036; stroke-width: 1.5;" width="109" x="317.5" y="40.4531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="64" x="340" y="53.5918">Frequency</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="318.5" x2="425.5" y1="58.4219" y2="58.4219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="24" x="323.5" y="71.7041">type</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="50" x="323.5" y="83.3447">startDate</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="47" x="323.5" y="94.9854">endDate</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="95" x="323.5" y="106.626">listOfPuntualDays</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="97" x="323.5" y="118.2666">specificWeekDays</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="82" x="323.5" y="129.9072">eachTimeDose</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="99" x="559.5" y="63.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="85" x="566.5" y="77.0918">LoggedInUser</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="560.5" x2="657.5" y1="81.9219" y2="81.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="33" x="565.5" y="95.2041">userId</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="71" x="565.5" y="106.8447">displayName</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="60.8906" style="stroke: #A80036; stroke-width: 1.5;" width="153" x="690.5" y="890.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="139" x="697.5" y="904.0918">MeasurementReminder</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="691.5" x2="842.5" y1="908.9219" y2="908.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="32" x="696.5" y="922.2041">name</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="21" x="696.5" y="933.8447">unit</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="30" x="696.5" y="945.4854">value</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="37.6094" style="stroke: #A80036; stroke-width: 1.5;" width="145" x="299.5" y="420.4531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="131" x="306.5" y="433.5918">MeasurementTherapy</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="300.5" x2="443.5" y1="438.4219" y2="438.4219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="24" x="305.5" y="451.7041">type</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="60.8906" style="stroke: #A80036; stroke-width: 1.5;" width="125" x="878.5" y="890.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="111" x="885.5" y="904.0918">MedicineReminder</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="879.5" x2="1002.5" y1="908.9219" y2="908.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="32" x="884.5" y="922.2041">name</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="26" x="884.5" y="933.8447">dose</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="48" x="884.5" y="945.4854">doseUnit</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="60.8906" style="stroke: #A80036; stroke-width: 1.5;" width="117" x="479.5" y="408.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="103" x="486.5" y="422.0918">MedicineTherapy</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="480.5" x2="595.5" y1="426.9219" y2="426.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="26" x="485.5" y="440.2041">dose</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="26" x="485.5" y="451.8447">units</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="51" x="485.5" y="463.4854">medicine</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="60.8906" style="stroke: #A80036; stroke-width: 1.5;" width="71" x="731.5" y="768.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="57" x="738.5" y="782.0918">Reminder</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="732.5" x2="801.5" y1="786.9219" y2="786.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="25" x="737.5" y="800.2041">date</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="25" x="737.5" y="811.8447">time</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="32" x="737.5" y="823.4854">status</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="60.8906" style="stroke: #A80036; stroke-width: 1.5;" width="108" x="891" y="768.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="94" x="898" y="782.0918">ReminderStatus</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="892" x2="998" y1="786.9219" y2="786.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="31" x="897" y="800.2041">DONE</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="49" x="897" y="811.8447">OMITTED</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="38" x="897" y="823.4854">TO_DO</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="91" x="1013.5" y="253.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="77" x="1020.5" y="267.0918">StatisticEntry</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="1014.5" x2="1103.5" y1="271.9219" y2="271.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="30" x="1019.5" y="285.2041">value</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="25" x="1019.5" y="296.8447">date</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="95.8125" style="stroke: #A80036; stroke-width: 1.5;" width="117" x="1208.5" y="230.4531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="54" x="1240" y="243.5918">Statistics</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="1209.5" x2="1324.5" y1="248.4219" y2="248.4219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="62" x="1214.5" y="261.7041">weightData</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="80" x="1214.5" y="273.3447">heartRateData</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="105" x="1214.5" y="284.9854">arterialPresureData</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="104" x="1214.5" y="296.626">glucoseBeforeData</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="94" x="1214.5" y="308.2666">glucoseAfterData</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="95" x="1214.5" y="319.9072">temperatureData</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="37.6094" style="stroke: #A80036; stroke-width: 1.5;" width="63" x="340.5" y="259.4531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="49" x="347.5" y="272.5918">Therapy</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="341.5" x2="402.5" y1="277.4219" y2="277.4219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="30" x="346.5" y="290.7041">notes</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="33.9688" style="stroke: #A80036; stroke-width: 1.5;" width="189" x="59.5" y="657.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="175" x="66.5" y="671.0918">UnplannedMedicineReminder</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="60.5" x2="247.5" y1="675.9219" y2="675.9219"/><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="33.9688" style="stroke: #A80036; stroke-width: 1.5;" width="178" x="536" y="657.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="164" x="543" y="671.0918">UnplannedActivityReminder</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="537" x2="713" y1="675.9219" y2="675.9219"/><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="33.9688" style="stroke: #A80036; stroke-width: 1.5;" width="217" x="283.5" y="657.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="203" x="290.5" y="671.0918">UnplannedMeasurementReminder</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="284.5" x2="499.5" y1="675.9219" y2="675.9219"/><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="107.4531" style="stroke: #A80036; stroke-width: 1.5;" width="67" x="856.5" y="224.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="29" x="875.5" y="238.0918">User</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="857.5" x2="922.5" y1="242.9219" y2="242.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="31" x="862.5" y="256.2041">email</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="55" x="862.5" y="267.8447">username</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="50" x="862.5" y="279.4854">password</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="39" x="862.5" y="291.126">gender</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="50" x="862.5" y="302.7666">birthYear</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="36" x="862.5" y="314.4072">weight</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="35" x="862.5" y="326.0479">height</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="119.0938" style="stroke: #A80036; stroke-width: 1.5;" width="124" x="694" y="28.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="30" x="741" y="42.0918">Prefs</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="695" x2="817" y1="46.9219" y2="46.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="67" x="700" y="60.2041">PREFS_NAME</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="78" x="700" y="71.8447">SHARED_NAME</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="91" x="700" y="83.4854">SHARED_GENDER</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="112" x="700" y="95.126">SHARED_YEAR_BIRTH</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="88" x="700" y="106.7666">SHARED_HEIGHT</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="90" x="700" y="118.4072">SHARED_WEIGHT</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="102" x="700" y="130.0479">SHARED_PASWORD</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="27" x="700" y="141.6885">prefs</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="37.6094" style="stroke: #A80036; stroke-width: 1.5;" width="67" x="914.5" y="420.4531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="53" x="921.5" y="433.5918">Contacte</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="915.5" x2="980.5" y1="438.4219" y2="438.4219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="31" x="920.5" y="451.7041">email</text><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="33.9688" style="stroke: #A80036; stroke-width: 1.5;" width="67" x="914.5" y="546.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="53" x="921.5" y="560.0918">Calendar</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="915.5" x2="980.5" y1="564.9219" y2="564.9219"/><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="33.9688" style="stroke: #A80036; stroke-width: 1.5;" width="60" x="820" y="657.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="46" x="827" y="671.0918">Planned</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="821" x2="879" y1="675.9219" y2="675.9219"/><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="33.9688" style="stroke: #A80036; stroke-width: 1.5;" width="50" x="915" y="657.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="36" x="922" y="671.0918">Month</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="916" x2="964" y1="675.9219" y2="675.9219"/><rect fill="#FEFECE" filter="url(#fpss66dv5r7cx)" height="33.9688" style="stroke: #A80036; stroke-width: 1.5;" width="60" x="1000" y="657.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="46" x="1007" y="671.0918">Historic</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="1001" x2="1059" y1="675.9219" y2="675.9219"/><!--MD5=[d1d92d8c75f3af49309a8d0f617667c2]
+reverse link Reminder to ActivityReminder--><path d="M714.594,837.6641 C687.379,856.9888 654.947,880.0171 631.206,896.8747 " fill="none" id="Reminder&lt;-ActivityReminder" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="710.8,831.7741,731.159,825.9021,718.905,843.1891,710.8,831.7741" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[bed348c523761f228361e0ece20ffe7b]
+reverse link Therapy to ActivityTherapy--><path d="M339.275,311.7711 C308.346,342.3171 262.672,387.4231 234.989,414.7621 " fill="none" id="Therapy&lt;-ActivityTherapy" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="334.382,306.7651,353.531,297.6921,344.22,316.7261,334.382,306.7651" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[60167eaf174f60a05609ebf91dcc1ec1]
+reverse link Reminder to MeasurementReminder--><path d="M767,850.5761 C767,864.2326 767,878.5908 767,890.7155 " fill="none" id="Reminder&lt;-MeasurementReminder" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="760,850.1161,767,830.1161,774,850.1161,760,850.1161" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[70eaa8b919b3fcbcef771f90936608e3]
+reverse link Therapy to MeasurementTherapy--><path d="M372,317.7921 C372,350.3491 372,395.6231 372,420.4261 " fill="none" id="Therapy&lt;-MeasurementTherapy" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="365,317.6921,372,297.6921,379,317.6921,365,317.6921" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e335333c4087453f850f0d879b4b5f17]
+reverse link Reminder to MedicineReminder--><path d="M819.185,836.4431 C844.359,853.8044 874.191,874.3782 898.032,890.8203 " fill="none" id="Reminder&lt;-MedicineReminder" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="815.121,842.1441,802.631,825.0261,823.07,830.6191,815.121,842.1441" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[228fe6e6f9109362db87429b7171dfef]
+reverse link Therapy to MedicineTherapy--><path d="M405.604,311.6401 C435.288,340.0721 478.221,381.1951 507.072,408.8291 " fill="none" id="Therapy&lt;-MedicineTherapy" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="400.644,316.5821,391.042,297.6921,410.328,306.4711,400.644,316.5821" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5606f1d1661399c9c704ffb2a674e55e]
+link UnplannedActivityReminder to Reminder--><path d="M643.564,691.9681 C662.241,708.0801 691.855,733.6271 717.395,755.6601 " fill="none" id="UnplannedActivityReminder-&gt;Reminder" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="722.066,750.4451,732.637,768.8091,712.921,761.0451,722.066,750.4451" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9154f2959054524f588aabb4a52ce86e]
+link UnplannedMeasurementReminder to Reminder--><path d="M441.025,691.9681 C511.072,714.8501 639.378,756.7631 712.384,780.6121 " fill="none" id="UnplannedMeasurementReminder-&gt;Reminder" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="714.577,773.9641,731.415,786.8281,710.23,787.2721,714.577,773.9641" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[26c5c883508136d62002207705765cbd]
+link UnplannedMedicineReminder to Reminder--><path d="M234.139,691.9681 C360.403,717.2001 602.463,765.5731 711.427,787.3481 " fill="none" id="UnplannedMedicineReminder-&gt;Reminder" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="713.131,780.5501,731.372,791.3331,710.388,794.2781,713.131,780.5501" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[80b61b5f70942ef721db3c31b14b698c]
+link Reminder to ReminderStatus--><path d="M802.593,799.4531 C827.855,799.4531 862.228,799.4531 890.874,799.4531 " fill="none" id="Reminder-ReminderStatus" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="52" x="820.75" y="792.52">tiene un</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="810.3928" y="812.7823">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="875.0633" y="795.5285">1</text><!--MD5=[1dd230f64e21016b11b9e7b8116a6f2a]
+link StatisticEntry to Statistics--><path d="M1104.65,278.4531 C1131.21,278.4531 1165.28,278.4531 1195.35,278.4531 " fill="none" id="StatisticEntry-&gt;Statistics" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1208.4,278.4531,1202.4,274.4531,1196.4,278.4531,1202.4,282.4531,1208.4,278.4531" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="67" x="1123" y="271.52">constituye</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="1112.3295" y="291.52">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="15" x="1185.3441" y="274.6255">1*</text><!--MD5=[9bd1da55f4c09e92da5f808ea7e82e9d]
+link Frequency to Therapy--><path d="M372,136.8931 C372,176.7051 372,231.4251 372,259.3951 " fill="none" id="Frequency-Therapy" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="95" x="373" y="191.02">es definida por</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="363.4625" y="156.4985">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="362.775" y="248.4088">1</text><!--MD5=[df0c31ed7f0fca7fcfdcb9535249f5c8]
+link Therapy to Reminder--><path d="M340.478,278.9181 C251.7,279.2091 6,293.1411 6,438.4531 C6,438.4531 6,438.4531 6,675.9531 C6,750.3901 580.864,787.9721 731.316,796.5331 " fill="none" id="Therapy-Reminder" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="7" y="568.52">genera</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="324.7076" y="274.5034">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="700.5012" y="791.8943">1..*</text><!--MD5=[dbcf266c0c88be3a01d82cf7ba5bffe7]
+link LoggedInUser to User--><path d="M633.905,113.0371 C646.163,124.1591 661.412,137.2951 676,147.9531 C736.661,192.2731 813.064,235.8321 856.231,259.4181 " fill="none" id="LoggedInUser-User" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="97" x="746" y="191.02">esta registrado</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="631.2619" y="133.3105">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="840.4411" y="250.9791">1</text><!--MD5=[db3d45c735db5d92206c97ab66548b70]
+link User to Reminder--><path d="M856.39,302.1161 C819.972,329.6681 767,379.8211 767,438.4531 C767,438.4531 767,438.4531 767,675.9531 C767,707.6411 767,743.9411 767,768.7491 " fill="none" id="User-Reminder" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="28" x="768" y="568.52">crea</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="840.6329" y="302.4836">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="741.6281" y="757.9614">1..*</text><!--MD5=[b588ea7a8750912fffa4e8e3a6dd46dc]
+link Reminder to User--><path d="M802.576,787.5161 C823.039,781.4871 849.311,774.1861 873,768.9531 C957.047,750.3881 1249,762.0261 1249,675.9531 C1249,438.4531 1249,438.4531 1249,438.4531 C1249,316.4521 1111.11,372.3761 996,331.9531 C971.005,323.1751 944.284,309.9131 923.924,298.9151 " fill="none" id="Reminder-User" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="97" x="1250" y="568.52">es alertado por</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="810.373" y="781.3838">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="931.3903" y="316.4555">1</text><!--MD5=[9abe59f3cc54c492a5938165059ebd99]
+link Therapy to User--><path d="M403.623,278.4531 C495.551,278.4531 762.154,278.4531 856.461,278.4531 " fill="none" id="Therapy-User" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="88" x="586" y="271.52">es creada por</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="411.5738" y="274.1855">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="840.7186" y="273.9401">1</text><!--MD5=[20322139b3bdefa1b37e548cee49e0a9]
+link User to Statistics--><path d="M923.624,252.1111 C968.671,220.0971 1051.42,172.7101 1124.5,192.9531 C1154.11,201.1551 1183.75,217.3301 1208.26,233.4251 " fill="none" id="User-Statistics" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="1068.5" y="191.02">visualiza</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="931.384" y="242.1651">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="1177.5775" y="224.7643">1..*</text><!--MD5=[e7a14a793c5d82bc1375998ef0fd6f22]
+link User to StatisticEntry--><path d="M923.793,278.4531 C949.512,278.4531 985.176,278.4531 1013.42,278.4531 " fill="none" id="User-StatisticEntry" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="53" x="942" y="271.52">adiciona</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="931.5878" y="273.9401">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="982.3908" y="291.5665">1..*</text><!--MD5=[5a58a3c9f2a63d50a7d76e4c4f9f6877]
+link Controller to User--><path d="M939.781,113.2631 C931.333,141.1261 917.09,188.1051 905.997,224.6901 " fill="none" id="Controller-User" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="49" x="920" y="191.02">registra</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="929.0464" y="133.1913">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="883.5732" y="213.8872">1..*</text><!--MD5=[3d96fb2907764d9c0b47c4c84e2bec01]
+link Prefs to Controller--><path d="M818.012,88.4531 C848.512,88.4531 884.229,88.4531 910.336,88.4531 " fill="none" id="Prefs-Controller" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="56" x="836.25" y="81.52">estan en</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="12" x="825.8759" y="84.6551">’1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="894.5844" y="84.0792">1</text><!--MD5=[39d8d25a2b5c19d66bc30ed72555e3d0]
+link User to Contacte--><path d="M856.039,302.8681 C831.435,322.8391 805.201,352.4431 822,378.9531 C842.135,410.7281 884.298,425.8551 914.3,432.8341 " fill="none" id="User-Contacte" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="89" x="823" y="375.02">comparte con</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="840.5654" y="321.1868">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="898.5244" y="427.043">1</text><!--MD5=[39d8d25a2b5c19d66bc30ed72555e3d0]
+link User to Contacte--><path d="M909.152,331.9561 C920.239,362.3491 933.505,398.7161 941.315,420.1261 " fill="none" id="User-Contacte-1" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="143" x="927" y="375.02">recibe compartidas de</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="903.2828" y="352.579">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="930.1763" y="409.3895">1</text><!--MD5=[4c82b30074ad2e8b12884ed6427e28d2]
+link Contacte to Calendar--><path d="M948,458.5281 C948,482.3541 948,523.9151 948,546.7611 " fill="none" id="Contacte-Calendar" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="70" x="949" y="513.02">dispone de</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="938.875" y="478.1428">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="938.725" y="535.9836">1</text><!--MD5=[765245b9744207597b6285f87c5157a9]
+link User to Calendar--><path d="M923.913,297.4721 C944.494,308.1001 971.445,321.4741 996,331.9531 C1032.08,347.3491 1056.47,329.8471 1079,361.9531 C1108,403.2651 1208.32,303.5171 1028,516.9531 C1015.7,531.5171 997.545,542.4801 981.641,550.0441 " fill="none" id="User-Calendar" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="70" x="1117" y="444.02">dispone de</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="931.7326" y="296.8818">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="989.4045" y="542.7123">1</text><!--MD5=[b52966f9a87c4dddcd73483947ac2d9d]
+link Calendar to Planned--><path d="M919.958,581.1081 C907.876,589.0181 894.21,599.3411 884,610.9531 C871.69,624.9541 862.133,644.1771 856.329,657.6951 " fill="none" id="Calendar-Planned" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="885" y="624.02">incluye</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="901.7446" y="601.0599">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="849.0714" y="646.8966">1</text><!--MD5=[20ebbf7c9f39f25f53fa6e786bc3d4dc]
+link Calendar to Month--><path d="M944.065,581.0201 C942.115,589.8031 939.973,600.9101 939,610.9531 C937.46,626.8491 938.001,645.1051 938.752,657.8591 " fill="none" id="Calendar-Month" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="940" y="624.02">incluye</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="933.5357" y="600.9439">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="929.0136" y="646.8064">1</text><!--MD5=[b3fe4cafa3378f8804b0bed563a147f7]
+link Calendar to Historic--><path d="M963.888,580.9551 C972.071,589.5341 981.986,600.4731 990,610.9531 C1001.648,626.1851 1013.2,644.8611 1020.87,657.9081 " fill="none" id="Calendar-Historic" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="1003" y="624.02">incluye</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="959.6773" y="600.8582">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="1008.5207" y="646.8717">1</text><!--MD5=[8bde07a3980e50409c6d5153e3010cd1]
+link Planned to Reminder--><path d="M839.149,691.9681 C825.967,711.4241 803.462,744.6391 787.085,768.8091 " fill="none" id="Planned-Reminder" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="820" y="735.02">contiene</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="826.4152" y="711.8753">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="28" x="794.115" y="758.0338">1…*</text><!--MD5=[5c9446f52ef63760607bf5ca2cffdc82]
+link Month to Reminder--><path d="M928.501,691.9691 C918.049,705.7011 901.609,725.3621 884,738.9531 C859.014,758.2371 826.818,774.0701 802.527,784.5431 " fill="none" id="Month-Reminder" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="904" y="735.02">contiene</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="915.5607" y="711.8766">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="28" x="810.4204" y="795.4484">1…*</text><!--MD5=[75caf07e69044d6ec6e145384219b5a7]
+link Historic to Reminder--><path d="M1017.97,692.1951 C1006.58,706.4631 988.262,726.7911 968,738.9531 C960.765,743.2961 858.478,772.5861 802.689,788.3891 " fill="none" id="Historic-Reminder" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="991" y="735.02">contiene</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="1005.0608" y="711.8644">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="28" x="806.6803" y="758.2527">1…*</text><!--MD5=[2a3d87d1ab275fc375e22b521e62f73b]
+@startuml
+title MyPillRecord
+
+object Controller {
+user
+jaIniciat
+}
+
+object ActivityReminder {
+name
+duration
+}
+
+object ActivityTherapy {
+activityType
+duration
+}
+
+
+object Frequency{
+type
+startDate
+endDate
+listOfPuntualDays
+specificWeekDays
+eachTimeDose
+}
+
+object LoggedInUser {
+userId
+displayName
+}
+
+object MeasurementReminder {
+name
+unit
+value
+}
+
+object MeasurementTherapy {
+type
+}
+
+object MedicineReminder {
+name
+dose
+doseUnit
+}
+
+object MedicineTherapy {
+dose
+units
+medicine
+}
+
+object Reminder {
+date
+time
+status
+}
+
+object ReminderStatus {
+DONE
+OMITTED
+TO_DO
+}
+
+object StatisticEntry {
+value
+date
+}
+
+object Statistics {
+weightData
+heartRateData
+arterialPresureData
+glucoseBeforeData
+glucoseAfterData
+temperatureData
+}
+
+object Therapy {
+notes
+}
+
+object UnplannedMedicineReminder
+object UnplannedActivityReminder
+object UnplannedMeasurementReminder
+
+object User {
+email
+username
+password
+gender
+birthYear
+weight
+height
+}
+
+object Prefs {
+PREFS_NAME
+SHARED_NAME
+SHARED_GENDER
+SHARED_YEAR_BIRTH
+SHARED_HEIGHT
+SHARED_WEIGHT
+SHARED_PASWORD
+prefs
+}
+
+object Contacte{
+email
+}
+
+object Calendar{
+}
+object Planned{
+}
+object Month{
+}
+object Historic{
+}
+
+Reminder<|-down- ActivityReminder
+Therapy<|-down- ActivityTherapy
+
+Reminder<|-down- MeasurementReminder
+Therapy<|-down- MeasurementTherapy
+
+Reminder<|-down- MedicineReminder
+Therapy<|-down- MedicineTherapy
+
+Reminder<|-up- UnplannedActivityReminder
+Reminder<|-up- UnplannedMeasurementReminder
+Reminder<|-up- UnplannedMedicineReminder
+
+Reminder”1..*” -right- “1” ReminderStatus: tiene un
+Statistics”1*” *-left- “1..*” StatisticEntry: constituye
+Therapy”1” -up- “1” Frequency: es definida por
+Therapy”1” - - “1..*” Reminder: genera
+
+User”1” -up-“1”LoggedInUser: esta registrado
+User”1" -right-"1..*" Reminder: crea
+User”1" -left-"1..*" Reminder: es alertado por
+User”1" -left-"1..*" Therapy: es creada por
+User”1" -right- "1..*"Statistics: visualiza
+User”1" -right- "1..*"StatisticEntry: adiciona
+
+Controller“1" -down-"1..*"User: registra
+Controller”1” -left- “’1” Prefs: estan en
+
+User “1” -down-“1”Contacte : comparte con
+Contacte“1” -up- “1”User : recibe compartidas de
+Contacte”1” -down-“1” Calendar: dispone de
+
+User “1” -down- “1”Calendar : dispone de
+Calendar “1” - - “1” Planned: incluye
+Calendar “1” - - “1” Month: incluye
+Calendar “1” - - “1” Historic: incluye
+Planned “1” - - “1…*” Reminder: contiene
+Month “1” - - “1…*” Reminder: contiene
+Historic “1” - - “1…*” Reminder: contiene
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 09:35:57 UTC 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 14.0.1+7
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
